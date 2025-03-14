@@ -83,6 +83,7 @@ python line_tracer.py
 ### 참고자료
 - [라즈베리파이 공식 문서](https://www.raspberrypi.org/documentation/)
 - [VNC Viewer 다운로드](https://www.realvnc.com/en/connect/download/viewer/)
+```
 
 ---
 
